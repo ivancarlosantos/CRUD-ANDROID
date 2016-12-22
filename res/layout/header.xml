@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:id="@+id/LinearLayout01"
+    android:layout_width="fill_parent" android:layout_height="fill_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <Button android:layout_height="wrap_content" android:id="@+id/Button11"
+        android:layout_width="80px" android:text="Select *"></Button>
+    <Button android:layout_height="wrap_content" android:id="@+id/Button12" android:layout_width="80px" android:text="Insert"></Button>
+<Button android:layout_height="wrap_content" android:layout_width="80px" android:text="Update" android:id="@+id/Button13"></Button>
+<Button android:layout_height="wrap_content" android:layout_width="80px" android:id="@+id/Button14" android:text="Delete"></Button>
+</LinearLayout>
